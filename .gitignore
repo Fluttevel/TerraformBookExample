@@ -1,7 +1,8 @@
-.terraform
+Chapter2/.terraform
 .idea
 
 *.tfstate
 *.tfstate.backup
 
-.terraform.lock.hcl
+Chapter2/Chapter2.iml
+Chapter2/.terraform.lock.hcl
